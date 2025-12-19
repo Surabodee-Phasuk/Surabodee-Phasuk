@@ -4,6 +4,7 @@ Currently studying [Computer Science](https://cs.sci.tu.ac.th/) at Thammasat Uni
 I'm an intermediate-level programmer who is not yet deeply specialized and still gaining hands-on experience<br>
 However, I'm always eager to learn new things and continuously improve myself.
 
+* 📌 This is my University github https://github.com/surabodee-pha
 * 💻  [My Profile Web](https://resume-portweb.web.app)
 * 🌍  I'm based in Bangkok, Thailand
 * 🧑🏻‍💻  Currently a third-year undergraduate student in Computer Science
