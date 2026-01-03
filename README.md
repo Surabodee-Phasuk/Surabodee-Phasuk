@@ -1,4 +1,4 @@
-# Hello I'm Surabodee ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello I'm Surabodee Phasuk ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## About Me
 Currently studying [Computer Science](https://cs.sci.tu.ac.th/) at Thammasat University <br/>
 I'm an intermediate-level programmer who is not yet deeply specialized and still gaining hands-on experience<br>
